@@ -1,0 +1,39 @@
+.transaction_form{
+    position: absolute;
+    top: 13rem;
+    height: 10rem;
+    left: 20rem;
+    width: 50%;
+}
+
+.transaction_form input{
+    display: flex;
+    width: 50%;
+    padding: 15px;
+    outline: none;
+    border: 1px solid rgba(39, 145, 177, 0.993);
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+}
+
+
+input[type="submit"]{
+    display: flex;
+    font-size: 20px;
+    font-weight: bold;
+    width: 10rem;
+    cursor: pointer;
+    margin: auto;
+    margin-top: 1rem;
+    justify-content: center;
+    background-color: rgba(24, 48, 184, 0.993);;
+}
+.heading{
+    margin-top: 30px;
+    font-size: 40px;
+    color: rgba(22, 9, 99, 0.993);
+    text-align: center;
+    text-decoration: underline;
+    margin-right: 52px;
+}

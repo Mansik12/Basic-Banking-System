@@ -1,0 +1,17 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+.intro{
+	background: #EAF0F1;
+}
+h1{
+	color: #4C4B4B;
+	font-weight: bold;
+	transition: 0.5s;
+}
+h3{
+	color:#2F363F;
+}

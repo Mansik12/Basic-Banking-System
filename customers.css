@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.customers{
+    background-image: url(images/viewcustomers.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.heading{
+    margin-top: 15px;
+    font-size: 40px;
+    color: rgba(22, 9, 99, 0.993);
+    text-align: center;
+    text-decoration: underline;
+}
+
+.customers p {
+    left: 100px;
+    padding: 15px;
+    font-size: x-large;
+    margin: auto;
+    text-align: center;
+    margin-left: 350px;
+    margin-bottom: 378px;
+}
+.customers p a{
+    text-decoration: none;
+    color: rgba(27, 164, 189, 0.993);
+    margin-right: 350px;
+}
+.cus{
+    float: left;
+    color: rgba(86, 13, 128, 0.993);
+    bottom: 10rem;
+
+}
+.viewcustomer{
+    position: absolute;
+    top: 12rem;
+    left: 23rem;
+}
+
+.tableformat{
+    font-family: 'Roboto Mono', monospace;
+    justify-content: center;
+    align-items: center;
+    border-collapse: collapse;
+    color: rgb(4, 8, 5);
+    border: 3px solid rgba(64, 39, 179, 0.993);
+}
+
+.tableformat td a{
+    text-decoration: none;
+    color: rgb(8, 3, 3);
+}
+
+.tableformat th{
+    color: rgba(11, 124, 168, 0.993);
+    font-size: 16px;
+    font-weight: 100px;
+}
+.tableformat tr,td,th{
+    padding: 5px;
+    border: 2px solid rgba(16, 5, 77, 0.993);
+}

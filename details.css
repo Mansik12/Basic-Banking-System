@@ -1,0 +1,57 @@
+.transaction_div{
+    position: absolute;
+    top: 20rem;
+    left: 3rem;
+    margin: auto;
+}
+
+.transaction{
+    font-size: 20px;
+    background-color: rgba(46, 49, 223, 0.993);
+    padding: 8px;
+    outline: none;
+    border:none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 500px;
+}
+
+.transaction a{
+    text-decoration: none;
+    color: antiquewhite;
+
+} 
+.heading{
+    margin-left: 500px;
+    
+}
+.customers p a{
+    text-decoration: none;
+    color: rgba(27, 164, 189, 0.993);
+    margin-left: 560px;
+}
+.tableformat{
+    font-family: 'Roboto Mono', monospace;
+    justify-content: center;
+    align-items: center;
+    border-collapse: collapse;
+    color: rgb(4, 8, 5);
+    border: 3px solid rgba(64, 39, 179, 0.993);
+}
+.tableformat td a{
+    text-decoration: none;
+    color: rgb(8, 3, 3);
+}
+
+.tableformat th{
+    color: rgba(11, 124, 168, 0.993);
+    font-size: 16px;
+    font-weight: 100px;
+}
+.tableformat tr,td,th{
+    padding: 5px;
+    border: 2px solid rgba(16, 5, 77, 0.993);
+}
+.viewcustomer{
+    margin-left: 250px;
+}

@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-image: url(images/viewcustomers.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+p{
+    position:absolute;
+    font-size: 49px;
+    font-weight:bold;
+    color: rgba(81, 118, 197, 0.993);
+    top: 12rem;
+    left: 26rem;
+}
+button{
+    margin: 20rem 37rem;
+    width:10rem;
+    height: 3rem;
+    border-radius: 15px;
+    outline: none;
+    border: none;
+}
+ button a{
+     padding: 7px;
+     font-size:20px;
+     color:rgb(39, 80, 167);
+     text-decoration:none;
+ }
+
+ button:hover{
+     background-color:rgba(73, 84, 189, 0.993);
+     /* color:antiquewhite; */
+     transition: 0.7s ease;
+
+
+ }
